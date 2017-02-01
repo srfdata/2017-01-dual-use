@@ -13,9 +13,8 @@ cp tmp/classify.r rscript
 cp tmp/numberFormatter.r rscript
 cp tmp/preprocessing.Rmd rscript
 cp index.html rscript
-mkdir rscript/output
 # copy over other nessecary output files from master branch
-cp tmp/output rscript/output
+cp -r tmp/output rscript
 # copy over other necessary input files from master branch
 cp -r tmp/input rscript/
 # zip the rscript folder
