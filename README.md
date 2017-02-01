@@ -2,7 +2,7 @@
 
 ## Artikel
 
-Die Daten und Methoden in diesem Repository beziehen sich auf den Artikel [Schweiz bewilligt Millionendeal mit dem Irak ](http://www.srf.ch/news/schweiz/schweiz-bewilligt-millionendeal-mit-dem-irak), publiziert am 21. Mai 2015. 
+Die Daten und Methoden in diesem Repository beziehen sich auf den Artikel [Schweiz bewilligt Millionendeal mit dem Irak ](http://www.srf.ch/news/schweiz/schweiz-bewilligt-millionendeal-mit-dem-irak), publiziert am 7. Januar 2017. 
 
 ## Beschreibung
 
