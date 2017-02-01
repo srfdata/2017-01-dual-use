@@ -1,7 +1,5 @@
-*.Rproj.user
-*.Rhistory
-*.RData
-seco.pdf
-main.html
+.Rdata
+.Rhistory
+.Rprofile
 preprocessing.html
-*.Rproj
+output/*
